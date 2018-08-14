@@ -5,4 +5,6 @@ mass-decorrelated jet substructure taggers, in particular adversarially trained
 neural networks. All information, guides, etc. can be found in the project
 [wiki](https://github.com/asogaard/adversarial/wiki).
 
-LM: for from Andreas Sogaard's repo
+LM: for from Andreas Sogaard's repo.
+Intended for ttH analysis modifications
+
