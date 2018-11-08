@@ -18,7 +18,7 @@ import numpy as np
 import pandas as pd
 import root_numpy
 from sklearn.model_selection import StratifiedKFold
-import root_pandas as rpd
+#import root_pandas as rpd
 
 import matplotlib
 matplotlib.use('agg')
